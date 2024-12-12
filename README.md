@@ -1,4 +1,8 @@
-Database Project Requirements
+
+The inital schema of the tables are done in dbdiagram. you can see it here:
+https://dbdiagram.io/d/BookShop-675b38e246c15ed47935c8d8
+------------------------------------------------------------------------------
+Project requirements:
 The objective of this project is to design, implement, and manipulate a relational database using Microsoft SQL Server (or other). Throughout the project, you will gain practical experience with database concepts and SQL operations. Your database should include the following components and functionalities:
 
 1. Database Design
